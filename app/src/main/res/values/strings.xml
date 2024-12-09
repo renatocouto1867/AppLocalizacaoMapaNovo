@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppLocalizacaoMapaNovo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="definir_localiza_o">Definir Localização</string>
+    <string name="travar_mapa">Travar Marcador</string>
+    <string name="destravar_mapa">Destravar Marcador</string>
+    <string name="dados_atuais">Dados Atuais:</string>
+    <string name="latitude_atual">Latitude Atual: </string>
+    <string name="longitude_atual">Longitude Atual: </string>
+    <string name="pr_xima_tela">Próxima Tela</string>
+    <string name="localizar">Localizar</string>
+    <string name="localizao">Localização</string>
+    <string name="tela_anterior">Tela anterior</string>
+    <string name="fechar">FECHAR</string>
+    <string name="fdfsf">fdfsf</string>
+    <string name="local_selecionado">Local Selecionado</string>
+    <string name="latitude_ou_longitude_inv_lida">Latitude ou Longitude inválida</string>
+    <string name="por_favor_insira_latitude_e_longitude">Por favor, insira latitude e longitude</string>
+    <string name="vamos_come_ar_o_passeio">Vamos começar o passeio</string>
+    <string name="permiss_o_nao_obtida">Permissão não obtida</string>
+    <string name="erro_ao_obter_localizao_tente_novamente">Erro ao obter localização. Tente novamente.</string>
+    <string name="este_app_precisa_acessar_sua_localizao">Este App precisa acessar sua localização.</string>
+    <string name="voce_esta_aqui">Voce está aqui</string>
+</resources>
